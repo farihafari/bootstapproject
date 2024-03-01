@@ -1,0 +1,14 @@
+.n-con{
+    background:linear-gradient(to left ,rgba(219, 5, 5,.7),black)
+}
+header{
+    width: 100%;
+    position: fixed;
+    z-index: 1000;
+}
+.carousel-indicators{
+    list-style: none;
+}
+.my-text{
+    text-shadow: 2px 4px 3px gray;
+}
